@@ -1,4 +1,4 @@
-jQuery(document).ready(function ($) {
+$(document).ready(function ($) {
   // header fixo qnd scrollar página
   window.onscroll = function () {
     if (window.pageYOffset > 140) {

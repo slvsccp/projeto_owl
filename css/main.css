@@ -32,6 +32,15 @@ a:hover {
   color: var(--secondary);
 }
 
+.logo-owl {
+  font-weight: 600;
+  color: var(--bs-gray);
+}
+
+.owl {
+  color: var(--primary);
+}
+
 .title {
   text-transform: uppercase;
 }
